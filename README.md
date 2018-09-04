@@ -1,2 +1,2 @@
 # oge
-HTML5,CSS and JAVASCRIPT game engine
+HTML5, CSS and JAVASCRIPT game engine
